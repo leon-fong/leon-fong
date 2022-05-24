@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm ooohmydawn, a junior frontend web developer who's curr
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Thousand%20lines%20of%20code-blue)
 
@@ -42,7 +42,7 @@ Sunday       12 commits     ██████░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/05/2022 00:38:32 UTC
+ Last Updated on 24/05/2022 00:42:06 UTC
 <!--END_SECTION:waka-->
 
 
