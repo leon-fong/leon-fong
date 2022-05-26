@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm ooohmydawn, a junior frontend web developer who's curr
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
 
@@ -40,16 +40,16 @@ Sunday       12 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.99% 
-JSON                     2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-JavaScript               1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
-Rust                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
+TypeScript               7 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.33% 
+JavaScript               4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87% 
+JSON                     2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+Rust                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
 
 ```
 
 
- Last Updated on 25/05/2022 01:18:37 UTC
+ Last Updated on 26/05/2022 00:40:15 UTC
 <!--END_SECTION:waka-->
 
 
