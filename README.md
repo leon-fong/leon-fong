@@ -8,6 +8,7 @@
 Welcome to my GitHub! <br/>
 I'm Leon, a junior frontend web developer who's currently learning something I have never known before.
 
+***
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
