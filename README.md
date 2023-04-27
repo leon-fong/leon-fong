@@ -1,4 +1,4 @@
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=leon-fong&theme=transparent"  />
+<img align="right"  src="https://readme-card-beta.vercel.app/api?username=leon-fong&theme=transparent"  />
  
 
 ### 👋 Hi there, I'm Leon.
