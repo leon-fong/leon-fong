@@ -1,14 +1,9 @@
-<img align="right" src="https://readme-card-beta.vercel.app/api?username=leon-fong"  />
-
-<img  align="right" width="450"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
-
-
-
+<img align="right" src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
 
 ### 👋 Hi there, I'm Leon.
 A passionate Web developer who's currently learning something I have never known before.
 
-If you want to know more about me, please visit my [website](https://leonfong.me?ref=profile-readme)
+If you want to know more about me, please visit my website: [leonfong.me](https://leonfong.me?ref=profile-readme)
 
 <!-- <p>
   <samp>
@@ -21,3 +16,5 @@ If you want to know more about me, please visit my [website](https://leonfong.me
 <p>
   <samp>Mail me at <a href="mailto:hi@antfu.me">hey@leonfong.me</a></samp>
 </p>
+
+<!-- <img align="right" src="https://readme-card-beta.vercel.app/api?username=leon-fong"  /> -->
