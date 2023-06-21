@@ -1,9 +1,8 @@
+<img align="right" src="https://readme-card-beta.vercel.app/api?username=leon-fong"  />
 
-<div align="right">
-   <img  src="https://readme-card-beta.vercel.app/api?username=leon-fong"  />
-   <img align="right" width="450"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
-</div>
-  
+<img  align="right" width="450"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
+
+
 
 
 ### 👋 Hi there, I'm Leon.
