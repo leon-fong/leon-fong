@@ -1,9 +1,10 @@
 
-<div height="400" >
-   <img align="right"  src="https://readme-card-beta.vercel.app/api?username=leon-fong"  />
-   <br />
-   <img  align="right" width="450"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
+<div align="right">
+   <img  src="https://readme-card-beta.vercel.app/api?username=leon-fong"  />
+   <img align="right" width="450"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
 </div>
+  
+
 
 ### 👋 Hi there, I'm Leon.
 A passionate Web developer who's currently learning something I have never known before.
