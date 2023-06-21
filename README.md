@@ -19,6 +19,6 @@ If you want to know more about me, please visit my [website](https://leonfong.me
 
 
  <img align="left"  src="https://readme-card-beta.vercel.app/api?username=leon-fong"  />
- <img  height="195"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
+ <img  align="right" height="195"  src="https://ns.yuy1n.io/card/3f87b1a245cc0abf/history" />
 
 
